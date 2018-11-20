@@ -73,8 +73,8 @@
                 </div>
                 <div data-role="footer" class="ui-bar">
                     <div class="ui-btn-left" data-role="controlgroup" data-type="horizontal" data-mini="true">                        
-                        <a href="mailto:<fmt:message key='mailto.address' />" class="ui-btn ui-corner-all ui-icon-mail ui-btn-icon-notext"><fmt:message key='mailto.address' /></a>
-                        <a href="tel:<fmt:message key='tel.number' />" class="ui-btn ui-corner-all ui-icon-phone ui-btn-icon-notext"><fmt:message key='tel.number' /></a>
+                        <a href="mailto:<fmt:message key='footer.mail' />" class="ui-btn ui-corner-all ui-icon-mail ui-btn-icon-notext"><fmt:message key='footer.mail' /></a>
+                        <a href="tel:<fmt:message key='footer.tel.plain' />" class="ui-btn ui-corner-all ui-icon-phone ui-btn-icon-notext"><fmt:message key='footer.tel.display' /></a>
                     </div>
 
                     <h2>
